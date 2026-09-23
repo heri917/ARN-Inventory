@@ -1,0 +1,17 @@
+{
+  "name": "ARN Inventory",
+  "short_name": "ARN Inventory",
+  "description": "Stok & Part",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "icons": [
+    {
+      "src": "/arn-inventory-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
